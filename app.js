@@ -1,3 +1,2 @@
 console.log("Hello World!\n");
-//#endregion
-//
+console.log("Hello World!\n");
